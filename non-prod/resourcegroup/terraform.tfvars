@@ -4,3 +4,6 @@ terragrunt = {
   }
 }
 
+inputs = {
+  resource_groupname  = "staging1"
+  }
